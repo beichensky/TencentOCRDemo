@@ -1,0 +1,2 @@
+# TencentOCRDemo
+使用腾讯OCR对图片进行文字识别的Demo
